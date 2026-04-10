@@ -93,7 +93,7 @@ Restaurant-Recommendation-System/
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ### 🔍 Recommendation Page
 
@@ -101,7 +101,7 @@ Restaurant-Recommendation-System/
 
 ### 📊 Result Page
 
-![Result Page](screenshots/result.png)
+![Result Page](screenshots/Result.png)
 
 
 ---
